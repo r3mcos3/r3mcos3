@@ -16,4 +16,30 @@
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@r3mcos3/53d8d942-5fd4-41e9-a426-72deb45ce0a0.svg" />
 </a></p>
 
- 
+### 👷 Check out what I'm currently working on
+
+- [r3mcos3/blog](https://github.com/r3mcos3/blog) - 
+- [r3mcos3/myfiles](https://github.com/r3mcos3/myfiles) - 
+- [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - 
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
+- [r3mcos3/Home-Assistant](https://github.com/r3mcos3/Home-Assistant) - 
+### 🌱 My latest projects
+
+- [r3mcos3/myfiles](https://github.com/r3mcos3/myfiles) - 
+- [r3mcos3/blog](https://github.com/r3mcos3/blog) - 
+- [r3mcos3/Home-Assistant](https://github.com/r3mcos3/Home-Assistant) - 
+- [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - 
+### 🔨 My recent Pull Requests
+
+- [Removed duplicate variable](https://github.com/piitaya/lovelace-mushroom/pull/703) on [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
+- [:arrow_up: Upgrades Tailscale to 1.24.2](https://github.com/hassio-addons/addon-tailscale/pull/92) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
+- [:arrow_up: Upgrades Tailscale to 1.22.4](https://github.com/hassio-addons/addon-tailscale/pull/91) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
+- [✨ add versioning to manifest file](https://github.com/cyberjunky/home-assistant-p2000/pull/31) on [cyberjunky/home-assistant-p2000](https://github.com/cyberjunky/home-assistant-p2000)
+- [🤡 updated maintainence year](https://github.com/frenck/home-assistant-config/pull/58) on [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config)
+### ⭐ Recent Stars
+
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
+- [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
+- [delzear/hass-formulaoneapi](https://github.com/delzear/hass-formulaoneapi) - Formula One API Integration Into Home Assistant
