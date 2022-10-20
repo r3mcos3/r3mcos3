@@ -18,8 +18,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [r3mcos3/blog](https://github.com/r3mcos3/blog) - Blog about handy things about coding, Home Assistant, and git. :cool:
 - [r3mcos3/myfiles](https://github.com/r3mcos3/myfiles) - My Dotfiles :file_cabinet:
+- [r3mcos3/blog](https://github.com/r3mcos3/blog) - Blog about handy things about coding, Home Assistant, and git. :cool:
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - 
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
 - [r3mcos3/Home-Assistant](https://github.com/r3mcos3/Home-Assistant) - 
