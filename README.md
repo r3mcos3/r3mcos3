@@ -18,15 +18,14 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [r3mcos3/myfiles](https://github.com/r3mcos3/myfiles) - My Dotfiles :file_cabinet:
+- [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 - [r3mcos3/zsh](https://github.com/r3mcos3/zsh) - 
-- [r3mcos3/Smart-Home](https://github.com/r3mcos3/Smart-Home) - My Home Assistant files :house:
+- [r3mcos3/myfiles](https://github.com/r3mcos3/myfiles) - My Dotfiles :file_cabinet:
 - [hassio-addons/addon-ftp](https://github.com/hassio-addons/addon-ftp) - FTP - Home Assistant Community Add-ons
 - [r3mcos3/blog](https://github.com/r3mcos3/blog) - Blog about handy things about coding, Home Assistant, and git. :cool:
 ### 🌱 My latest projects
 
 - [r3mcos3/zsh](https://github.com/r3mcos3/zsh) - 
-- [r3mcos3/Smart-Home](https://github.com/r3mcos3/Smart-Home) - My Home Assistant files :house:
 - [r3mcos3/myfiles](https://github.com/r3mcos3/myfiles) - My Dotfiles :file_cabinet:
 - [r3mcos3/blog](https://github.com/r3mcos3/blog) - Blog about handy things about coding, Home Assistant, and git. :cool:
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
