@@ -40,6 +40,6 @@
 
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
 - [ChristianChiarulli/Machfiles](https://github.com/ChristianChiarulli/Machfiles) - The dotfiles you see in all my videos
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
