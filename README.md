@@ -31,15 +31,15 @@
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 ### 🔨 My recent Pull Requests
 
+- [persistent history](https://github.com/zap-zsh/supercharge/pull/5) on [zap-zsh/supercharge](https://github.com/zap-zsh/supercharge)
 - [Fix typo in  documentation](https://github.com/hassio-addons/addon-ftp/pull/125) on [hassio-addons/addon-ftp](https://github.com/hassio-addons/addon-ftp)
 - [Removed duplicate variable](https://github.com/piitaya/lovelace-mushroom/pull/703) on [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 - [:arrow_up: Upgrades Tailscale to 1.24.2](https://github.com/hassio-addons/addon-tailscale/pull/92) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
 - [:arrow_up: Upgrades Tailscale to 1.22.4](https://github.com/hassio-addons/addon-tailscale/pull/91) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
-- [✨ add versioning to manifest file](https://github.com/cyberjunky/home-assistant-p2000/pull/31) on [cyberjunky/home-assistant-p2000](https://github.com/cyberjunky/home-assistant-p2000)
 ### ⭐ Recent Stars
 
+- [zap-zsh/supercharge](https://github.com/zap-zsh/supercharge) - 🔋 Supercharge your zsh experience
 - [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
 - [ChristianChiarulli/Machfiles](https://github.com/ChristianChiarulli/Machfiles) - The dotfiles you see in all my videos
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
