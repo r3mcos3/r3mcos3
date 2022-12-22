@@ -18,18 +18,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [r3mcos3/HomeAssistant](https://github.com/r3mcos3/HomeAssistant) - 
 - [r3mcos3/myfiles](https://github.com/r3mcos3/myfiles) - My Dotfiles :file_cabinet:
+- [r3mcos3/nvim-config](https://github.com/r3mcos3/nvim-config) - 
+- [r3mcos3/HomeAssistant](https://github.com/r3mcos3/HomeAssistant) - 
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 - [r3mcos3/zsh](https://github.com/r3mcos3/zsh) - 
-- [hassio-addons/addon-ftp](https://github.com/hassio-addons/addon-ftp) - FTP - Home Assistant Community Add-ons
 ### 🌱 My latest projects
 
+- [r3mcos3/nvim-config](https://github.com/r3mcos3/nvim-config) - 
 - [r3mcos3/HomeAssistant](https://github.com/r3mcos3/HomeAssistant) - 
 - [r3mcos3/zsh](https://github.com/r3mcos3/zsh) - 
 - [r3mcos3/myfiles](https://github.com/r3mcos3/myfiles) - My Dotfiles :file_cabinet:
 - [r3mcos3/blog](https://github.com/r3mcos3/blog) - Blog about handy things about coding, Home Assistant, and git. :cool:
-- [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 ### 🔨 My recent Pull Requests
 
 - [persistent history](https://github.com/zap-zsh/supercharge/pull/5) on [zap-zsh/supercharge](https://github.com/zap-zsh/supercharge)
