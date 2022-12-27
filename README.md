@@ -18,9 +18,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 - [r3mcos3/HomeAssistant](https://github.com/r3mcos3/HomeAssistant) - My Home Assistant Files
 - [r3mcos3/Dotfiles](https://github.com/r3mcos3/Dotfiles) - My Personal Dotfiles
+- [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 - [hassio-addons/addon-ftp](https://github.com/hassio-addons/addon-ftp) - FTP - Home Assistant Community Add-ons
 - [r3mcos3/blog](https://github.com/r3mcos3/blog) - Blog about handy things about coding, Home Assistant, and git. :cool:
 ### 🌱 My latest projects
@@ -38,8 +38,8 @@
 - [:arrow_up: Upgrades Tailscale to 1.22.4](https://github.com/hassio-addons/addon-tailscale/pull/91) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
 ### ⭐ Recent Stars
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
