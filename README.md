@@ -38,8 +38,8 @@
 - [:arrow_up: Upgrades Tailscale to 1.22.4](https://github.com/hassio-addons/addon-tailscale/pull/91) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
 ### ⭐ Recent Stars
 
+- [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
