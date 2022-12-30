@@ -19,12 +19,13 @@
 ### 👷 Check out what I'm currently working on
 
 - [r3mcos3/HomeAssistant](https://github.com/r3mcos3/HomeAssistant) - My Home Assistant Files
+- [r3mcos3/yt-dl](https://github.com/r3mcos3/yt-dl) - Python Youtube Downloader
 - [r3mcos3/Dotfiles](https://github.com/r3mcos3/Dotfiles) - My Personal Dotfiles
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 - [hassio-addons/addon-ftp](https://github.com/hassio-addons/addon-ftp) - FTP - Home Assistant Community Add-ons
-- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
 ### 🌱 My latest projects
 
+- [r3mcos3/yt-dl](https://github.com/r3mcos3/yt-dl) - Python Youtube Downloader
 - [r3mcos3/Dotfiles](https://github.com/r3mcos3/Dotfiles) - My Personal Dotfiles
 - [r3mcos3/HomeAssistant](https://github.com/r3mcos3/HomeAssistant) - My Home Assistant Files
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
@@ -37,8 +38,8 @@
 - [:arrow_up: Upgrades Tailscale to 1.22.4](https://github.com/hassio-addons/addon-tailscale/pull/91) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
 ### ⭐ Recent Stars
 
+- [zacharee/SamloaderKotlin](https://github.com/zacharee/SamloaderKotlin) - 
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
