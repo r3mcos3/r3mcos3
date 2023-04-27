@@ -18,17 +18,24 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [r3mcos3/dotfiles](https://github.com/r3mcos3/dotfiles) - 
+- [r3mcos3/dotfiles](https://github.com/r3mcos3/dotfiles) - My dotfiles repo
 - [r3mcos3/scripts](https://github.com/r3mcos3/scripts) - 
 - [r3mcos3/yt-dl](https://github.com/r3mcos3/yt-dl) - Python Youtube Downloader
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 - [hassio-addons/addon-ftp](https://github.com/hassio-addons/addon-ftp) - FTP - Home Assistant Community Add-ons
 ### 🌱 My latest projects
 
-- [r3mcos3/dotfiles](https://github.com/r3mcos3/dotfiles) - 
+- [r3mcos3/dotfiles](https://github.com/r3mcos3/dotfiles) - My dotfiles repo
 - [r3mcos3/scripts](https://github.com/r3mcos3/scripts) - 
 - [r3mcos3/yt-dl](https://github.com/r3mcos3/yt-dl) - Python Youtube Downloader
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
+### 🔨 My recent Pull Requests
+
+- [persistent history](https://github.com/zap-zsh/supercharge/pull/5) on [zap-zsh/supercharge](https://github.com/zap-zsh/supercharge)
+- [Fix typo in  documentation](https://github.com/hassio-addons/addon-ftp/pull/125) on [hassio-addons/addon-ftp](https://github.com/hassio-addons/addon-ftp)
+- [Removed duplicate variable](https://github.com/piitaya/lovelace-mushroom/pull/703) on [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
+- [:arrow_up: Upgrades Tailscale to 1.24.2](https://github.com/hassio-addons/addon-tailscale/pull/92) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
+- [:arrow_up: Upgrades Tailscale to 1.22.4](https://github.com/hassio-addons/addon-tailscale/pull/91) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
 ### ⭐ Recent Stars
 
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
