@@ -18,13 +18,14 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [r3mcos3/homeassistant](https://github.com/r3mcos3/homeassistant) - 
 - [r3mcos3/dotfiles](https://github.com/r3mcos3/dotfiles) - My dotfiles repo
 - [r3mcos3/scripts](https://github.com/r3mcos3/scripts) - 
 - [r3mcos3/yt-dl](https://github.com/r3mcos3/yt-dl) - Python Youtube Downloader
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
-- [hassio-addons/addon-ftp](https://github.com/hassio-addons/addon-ftp) - FTP - Home Assistant Community Add-ons
 ### 🌱 My latest projects
 
+- [r3mcos3/homeassistant](https://github.com/r3mcos3/homeassistant) - 
 - [r3mcos3/dotfiles](https://github.com/r3mcos3/dotfiles) - My dotfiles repo
 - [r3mcos3/scripts](https://github.com/r3mcos3/scripts) - 
 - [r3mcos3/yt-dl](https://github.com/r3mcos3/yt-dl) - Python Youtube Downloader
