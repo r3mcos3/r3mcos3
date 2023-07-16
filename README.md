@@ -39,8 +39,8 @@
 - [:arrow_up: Upgrades Tailscale to 1.24.2](https://github.com/hassio-addons/addon-tailscale/pull/92) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
 ### ⭐ Recent Stars
 
+- [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [rbrink/Home-Assistant-Prijsplafond](https://github.com/rbrink/Home-Assistant-Prijsplafond) - Provides Home Assistant sensors to keep track of the Dutch prijsplafond regulation.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, &amp; patcher. 3,600&#43; icons, 50&#43; patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
-- [zacharee/SamloaderKotlin](https://github.com/zacharee/SamloaderKotlin) - 
