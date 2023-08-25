@@ -21,15 +21,15 @@
 - [r3mcos3/HomeAssistant](https://github.com/r3mcos3/HomeAssistant) - 
 - [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 - [r3mcos3/scripts](https://github.com/r3mcos3/scripts) - 
-- [r3mcos3/Home-Assistant](https://github.com/r3mcos3/Home-Assistant) - 
 - [r3mcos3/dotfiles](https://github.com/r3mcos3/dotfiles) - My dotfiles repo
+- [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org) - 🌐 Website for LunarVim
 ### 🌱 My latest projects
 
 - [r3mcos3/HomeAssistant](https://github.com/r3mcos3/HomeAssistant) - 
-- [r3mcos3/Home-Assistant](https://github.com/r3mcos3/Home-Assistant) - 
 - [r3mcos3/dotfiles](https://github.com/r3mcos3/dotfiles) - My dotfiles repo
 - [r3mcos3/scripts](https://github.com/r3mcos3/scripts) - 
 - [r3mcos3/yt-dl](https://github.com/r3mcos3/yt-dl) - Python Youtube Downloader
+- [r3mcos3/esphome-nodes](https://github.com/r3mcos3/esphome-nodes) - Yaml files of my Esphome nodes. :computer:
 ### 🔨 My recent Pull Requests
 
 - [docs: add examples to run dev mode](https://github.com/LunarVim/lunarvim.org/pull/412) on [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
