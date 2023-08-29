@@ -39,7 +39,7 @@
 - [:arrow_up: Upgrades Tailscale to 1.24.2](https://github.com/hassio-addons/addon-tailscale/pull/92) on [hassio-addons/addon-tailscale](https://github.com/hassio-addons/addon-tailscale)
 ### ⭐ Recent Stars
 
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - WIP
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [rbrink/Home-Assistant-Prijsplafond](https://github.com/rbrink/Home-Assistant-Prijsplafond) - Provides Home Assistant sensors to keep track of the Dutch prijsplafond regulation.
