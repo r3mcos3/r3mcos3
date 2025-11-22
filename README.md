@@ -46,7 +46,7 @@ const remco = {
 ### Automation
 <p>
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://n8n.io/favicon.svg" width="40" height="40" alt="n8n" />
+    <img src="https://cdn.simpleicons.org/n8n" width="40" height="40" alt="n8n" />
 </a>
 </p>
 
