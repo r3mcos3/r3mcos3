@@ -86,7 +86,7 @@ const remco = {
 <img src="https://github-readme-stats.vercel.app/api?username=r3mcos3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3mcos3&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" height="170" />
 
-<img src="https://streak-stats.demolab.com/?user=r3mcos3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=r3mcos3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_buster=1)
 
 </div>
 
@@ -97,10 +97,10 @@ const remco = {
 <div align="center">
 
 <a href="https://github.com/r3mcos3/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r3mcos3&repo=dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <img src="https://github-readme-stats-ten-kohl.vercel.app/api/pin/?username=r3mcos3&repo=dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </a>
 <a href="https://github.com/r3mcos3/n8n_workflows">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r3mcos3&repo=n8n_workflows&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <img src="https://github-readme-stats-ten-kohl.vercel.app/api/pin/?username=r3mcos3&repo=n8n_workflows&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </a>
 
 </div>
