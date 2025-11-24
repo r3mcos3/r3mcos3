@@ -94,6 +94,7 @@ const remco = {
 
 ## 🏆 Top Repositories
 
+<!-- TOP_REPOS_START -->
 <div align="center">
 
 <a href="https://github.com/r3mcos3/dotfiles">
@@ -104,6 +105,7 @@ const remco = {
 </a>
 
 </div>
+<!-- TOP_REPOS_END -->
 
 ---
 
