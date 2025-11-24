@@ -90,22 +90,7 @@ const remco = {
 
 </div>
 
----
 
-## 🏆 Top Repositories
-
-<!-- TOP_REPOS_START -->
-<div align="center">
-
-<a href="https://github.com/r3mcos3/dotfiles">
-  <img src="https://github-readme-stats-ten-kohl.vercel.app/api/pin/?username=r3mcos3&repo=dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-<a href="https://github.com/r3mcos3/n8n_workflows">
-  <img src="https://github-readme-stats-ten-kohl.vercel.app/api/pin/?username=r3mcos3&repo=n8n_workflows&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-</div>
-<!-- TOP_REPOS_END -->
 
 ---
 
