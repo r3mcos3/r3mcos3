@@ -84,9 +84,6 @@ const remco = {
 ### 📈 Contribution Graph
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r3mcos3&theme=tokyonight)
 
-### 🎯 3D Contribution Calendar
-![](./profile-3d-contrib/profile-gitblock.svg)
-
 ### 📊 Detailed Metrics
 ![Metrics](https://raw.githubusercontent.com/r3mcos3/r3mcos3/main/github-metrics.svg)
 
