@@ -81,8 +81,16 @@ const remco = {
 
 <div align="center">
 
+### 📈 Contribution Graph
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r3mcos3&theme=tokyonight)
 
+### 🎯 3D Contribution Calendar
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+### 📊 Detailed Metrics
+![Metrics](https://raw.githubusercontent.com/r3mcos3/r3mcos3/main/github-metrics.svg)
+
+### 📈 Statistics Overview
 <img src="https://github-readme-stats.vercel.app/api?username=r3mcos3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3mcos3&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" height="170" />
 
