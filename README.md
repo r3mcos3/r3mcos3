@@ -61,7 +61,7 @@ const remco = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=r3mcos3&theme=tokyonight&hide_border=true&background=0d1a15&ring=4ade80&fire=4ade80&currStreakLabel=4ade80" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=r3mcos3&theme=tokyonight&hide_border=true&background=0d1a15&ring=4ade80&fire=4ade80&currStreakLabel=4ade80" alt="GitHub Streak" />
 
 </div>
 
